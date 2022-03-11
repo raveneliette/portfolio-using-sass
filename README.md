@@ -9,5 +9,5 @@ This is a personal portfolio mobile-first project created by codeSTACKr. This is
 
 ### Useful resources
 
-- [https://sass-lang.com/documentation] - Main Documentation of Sass
+- [https://sass-lang.com/documentation] - Sass Main Documentation
 - [https://sass-guidelin.es/#architecture] - Sass Architecture Folders Structure
