@@ -10,5 +10,4 @@ This is a personal portfolio mobile-first project created by codeSTACKr. This is
 ### Useful resources
 
 - [https://sass-lang.com/documentation] - Main Documentation of Sass
-- [https://sass-guidelin.es/#architecture] - Sass 
-- [https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar] - Sass Architecture Folder Structures
+- [https://sass-guidelin.es/#architecture] - Sass Architecture Folders Structure
